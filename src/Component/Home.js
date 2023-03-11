@@ -40,11 +40,11 @@ function Home() {
             </div>
             <div className="col">
                 <strong>Email</strong>
-                <p>blossoms@gmail.com</p>
+                <p>shyamathakur406@gmail.com</p>
             </div> 
             <div className="col">
                 <strong>Mobile</strong>
-                <p>+91 8897666511</p>
+                <p>+9174100683</p>
             </div> 
             <div className="col">
                 <strong>Address</strong>
